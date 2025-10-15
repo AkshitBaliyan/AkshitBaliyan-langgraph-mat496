@@ -28,6 +28,11 @@ I expanded the graph from three to five nodes, each representing a different moo
 I updated the conditional edge logic so that after the first node, the graph randomly chooses one of four possible end nodes.
 I adjusted the markdown and code to match the new structure, making sure the documentation and outputs reflect the five-node setup.
 
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/4dd33438-daae-486b-a918-ce82b572f74a" />
+
+<img width="1286" height="402" alt="image" src="https://github.com/user-attachments/assets/45b7e38f-d877-4283-85f6-9e15818a26e9" />
+
+
 Modified work : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module1/simple-graph.ipynb
 
 ### Video 3 :
