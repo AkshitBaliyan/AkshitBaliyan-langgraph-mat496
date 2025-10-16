@@ -36,3 +36,11 @@ I adjusted the markdown and code to match the new structure, making sure the doc
 Modified work : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module1/simple-graph.ipynb
 
 ### Video 3 :
+
+The graph that is done in Video 2, we did it same but on studio this time, 
+but to do it on studio i have made changes in .py file also the same change done in video2.
+
+<img width="1148" height="802" alt="Screenshot1" src="https://github.com/user-attachments/assets/568ab207-9197-4a77-a37d-cd696602417e" />
+
+### Video 4 :
+
