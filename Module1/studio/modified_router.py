@@ -15,7 +15,7 @@ def divide(a: int, b: int) -> int:
 
 # LLM with bound tool
 llm = ChatOpenAI(model="gpt-4o")
-llm_with_tools = llm.bind_tools([multiply])
+llm_with_tools = llm.bind_tools([divide])
 
 # Node
 def tool_calling_llm(state: MessagesState):
@@ -24,7 +24,7 @@ def tool_calling_llm(state: MessagesState):
 # Build graph
 builder = StateGraph(MessagesState)
 builder.add_node("tool_calling_llm", tool_calling_llm)
-builder.add_node("tools", ToolNode([multiply]))
+builder.add_node("tools", ToolNode([divide]))
 builder.add_edge(START, "tool_calling_llm")
 builder.add_conditional_edges(
     "tool_calling_llm",
