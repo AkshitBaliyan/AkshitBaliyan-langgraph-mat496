@@ -66,4 +66,16 @@ modified file link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-ma
 
 ![WhatsApp Image 2025-10-16 at 20 23 01_d5b0debe](https://github.com/user-attachments/assets/4eb4022f-df06-4411-87fa-c4a31d224002) 
 
+### Video 6 : 
+
+Make a agent with diff tools that can soolve many maths problem. We used React Architecture which used loop until the answer is found, they used a tool then forward it to another tool as per the req basically using multiple tools until answer is found.
+
+original link: https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-1/agent.ipynb
+
+tweaking : add more function/tools for solving maths problem. changed input make them complex and test with all diff tools whether they are working or not.
+
+modified link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module1/agent.ipynb
+
+
+<img width="808" height="475" alt="image" src="https://github.com/user-attachments/assets/417790cb-68a9-4adb-903c-8ea4ef2bab7e" />
 
