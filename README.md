@@ -44,3 +44,9 @@ but to do it on studio i have made changes in .py file also the same change done
 
 ### Video 4 :
 
+In this I moved from simple graphs toChains by linking different components together. concept was to take a conversation history which is stored as a list of messages, create a custom tool, and then bind them with an LLM inside a graph.
+original file link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-1/chain.ipynb
+
+Tweaking: Changes convo to How to play Uno and its related conversation. make my translational tool and replaced it in the code with the given one. also done tweaking in MessageState graph task, randomly ask about topic like contribution of Bhagat Singh for India.
+
+Modified work : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module1/chain.ipynb
