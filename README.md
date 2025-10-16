@@ -51,3 +51,19 @@ original file link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-ma
 Tweaking: Changes convo to How to play Uno and its related conversation. make my translational tool and replaced it in the code with the given one. also done tweaking in MessageState graph task, randomly ask about topic like contribution of Bhagat Singh for India.
 
 Modified work : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module1/chain.ipynb
+
+### Video 5 : 
+
+In this video learned how to build a router that lets the LLM choose its own path. It can either use a specific tool if needed or just answer the question directly.
+like it will give answer based on the condition met but if unrelated thing is asked then it will give answer according to it only.
+
+original file link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-1/router.ipynb
+
+changes : made the division thing just like multiply func, it lets now to take two integer input and divide them to get answer. same thing is updated in router.py and checked on studio also and found out it give same result.
+also checked on studio giving random question to know the diff result.
+
+modified file link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module1/router.ipynb
+
+![WhatsApp Image 2025-10-16 at 20 23 01_d5b0debe](https://github.com/user-attachments/assets/4eb4022f-df06-4411-87fa-c4a31d224002) 
+
+
