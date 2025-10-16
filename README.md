@@ -1,3 +1,4 @@
+
 # AkshitBaliyan-langgraph-mat496
 
 https://academy.langchain.com/courses/intro-to-langgraph
@@ -16,13 +17,13 @@ Then we see how LangGraph balances control and reliability, while also allowing 
 
 ### Video 2 :
 
-What I learned: 
+**Learnings :** 
 
 In this part, I learned how to build a basic graph that makes a decision. The exercise involved using a simple dictionary input and a single condition to form a sentence.built the graph, visualized it to see the logic, and then tested it to make sure it worked as expected.
 
 original file link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-1/simple-graph.ipynb
 
-Tweaks I made:
+**Tweaks I made:**
 
 I expanded the graph from three to five nodes, each representing a different mood or outcome.
 I updated the conditional edge logic so that after the first node, the graph randomly chooses one of four possible end nodes.
@@ -77,5 +78,19 @@ tweaking : add more function/tools for solving maths problem. changed input make
 modified link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module1/agent.ipynb
 
 
-<img width="808" height="475" alt="image" src="https://github.com/user-attachments/assets/417790cb-68a9-4adb-903c-8ea4ef2bab7e" />
+![WhatsApp Image 2025-10-16 at 23 05 28_1a2c0819](https://github.com/user-attachments/assets/f00dc7e7-07e8-422d-83e4-952899725456)
 
+
+### Video 7 :
+
+**Learnings :** 
+Learnt how agent keep track of memory using threads nd results is obtained. 
+
+original link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-1/agent-memory.ipynb
+
+**tweaking:** 
+added some tools first, then performa a operation using one of the tool and then again perform a operation on that result to check memory is being kept by agent or not.
+
+modified link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module1/agent-memory.ipynb
+
+![WhatsApp Image 2025-10-16 at 23 16 00_47cbc30e](https://github.com/user-attachments/assets/d73a9020-6a12-49c5-8e59-f8166fb88240)
