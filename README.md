@@ -98,3 +98,15 @@ modified link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/
 
 
 ## Module 2 
+
+### Video 1 :
+
+Learnt about the structure of the graph its schema. In this structure we defin the types and allowed values. but we found that in case of typedict and dataclass it is not strictly followed andd we can assign a invalid value also . to prevet this we noticed and learnt about the pydantic which prevents from happening this and throw error if no values is found.
+
+Original file link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-2/state-schema.ipynb
+
+Tweaking : 
+Change the entrire code from 2 node split strucure to 5 node split strucure with equal chances , previousely it was based on the mood but i modified it one the basis of sports i plays.
+
+Modified file Link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module2/state-schema.ipynb
+
