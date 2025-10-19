@@ -94,3 +94,7 @@ added some tools first, then performa a operation using one of the tool and then
 modified link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module1/agent-memory.ipynb
 
 ![WhatsApp Image 2025-10-16 at 23 16 00_47cbc30e](https://github.com/user-attachments/assets/d73a9020-6a12-49c5-8e59-f8166fb88240)
+
+
+
+## Module 2 
