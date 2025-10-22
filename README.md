@@ -125,3 +125,17 @@ I expanded the graph to 7 nodes , tested custom reducers, switched keys and twea
 Modifies work linkk : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module2/state-reducers.ipynb
 
 
+### Vidoe 3 :
+
+Got to know about the private states and how it works . It allow diff nodes to share info without affecting the input or final output.can be used when we dont want to show steps and just the final output.
+also explor custom Input/Output schemas, custom I/O schemas let you filter or control what is visible and whats internal.
+
+Original link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-2/multiple-schemas.ipynb
+
+Tweaking : 
+made my own graph with a bit longer chain, added few more private states to check outputs stay hidden or not. Then work with input and output schemas to see what changes. 
+Also put some extra intermediate nodes in between and changed how data handled in the return part
+
+Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module2/multiple-schemas.ipynb
+
+
