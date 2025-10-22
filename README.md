@@ -110,3 +110,18 @@ Change the entrire code from 2 node split strucure to 5 node split strucure with
 
 Modified file Link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module2/state-schema.ipynb
 
+
+## Vidoe 2 :
+
+learned that state reducers control how data updates when multiple nodes change the same variable. 
+default wise if we see , updates just overwrite values, and its causes conflicts in parallel runs. Reducers fix this by merging updates safely by appending, custom merging or handling nulls.
+also discovered how message IDs let you rewrite or remove specific messages, even changing who sent them.
+
+Original link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-2/state-reducers.ipynb
+
+Tweaking : 
+I expanded the graph to 7 nodes , tested custom reducers, switched keys and tweaked messages to see how reducerss keep everything consistent.
+
+Modifies work linkk : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module2/state-reducers.ipynb
+
+
