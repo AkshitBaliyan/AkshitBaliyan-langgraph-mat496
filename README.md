@@ -139,3 +139,20 @@ Also put some extra intermediate nodes in between and changed how data handled i
 Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module2/multiple-schemas.ipynb
 
 
+### Vidoe 4 :
+
+Learnt about message reducers, filters and trimmers, basically how they control how much of the chat history goes to the model every turn. Also saw that keeping the same message channel helps reshape the convo thread without breaking the LangGraph.
+
+We started with reducers again, then added filtering, where only the last message is sent but whole convo still shown in output. Then trimming, where we can send just part of previous messages to give some context.
+
+Original link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-2/trim-filter-messages.ipynb
+
+Tweaking : 
+Made my own convo.  Watched how the model takes in different amounts of messages and how that changes its replies. Also tried partial trimming to see how input gets shorter. 
+in last i have also added screnshots and links for the reference .
+
+Modifies link :https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module2/trim-filter-messages.ipynb
+
+<img width="1920" height="1080" alt="Screenshot (460)" src="https://github.com/user-attachments/assets/ab9dbbdd-4539-40ae-931d-0e8df04de28e" />
+
+
