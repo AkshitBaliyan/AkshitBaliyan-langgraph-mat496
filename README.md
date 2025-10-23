@@ -168,3 +168,20 @@ Made my own convo. Change name to Akshit from Lance, change the ocnvo from footb
 Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module2/chatbot-summarization.ipynb
 
 <img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/47a800e3-f6ae-4941-9f5a-7101833e7e47" />
+
+
+### Vidoe 6 :
+
+using LangGraph and a sqlite checkpointer, i Learn how to build a chatbot with summarization and external memory. and also how chatbot stored conversation in a local database allowing recovery even after restarts.
+
+Original link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-2/chatbot-external-memory.ipynb
+
+Tweaking : 
+Used LangGraph studio to visualise and run the workflow. change name to Akshit replacing Lance everywhere, updated my own convo and ask diff things based on my own convo. 
+
+Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module2/chatbot-external-memory.ipynb
+
+![img](https://github.com/user-attachments/assets/445dda8d-bc25-43e2-a4e2-8bdafe009bd2)
+
+
+Done Module 2
