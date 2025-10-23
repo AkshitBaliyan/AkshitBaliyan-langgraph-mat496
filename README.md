@@ -156,3 +156,15 @@ Modifies link :https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/b
 <img width="1920" height="1080" alt="Screenshot (460)" src="https://github.com/user-attachments/assets/ab9dbbdd-4539-40ae-931d-0e8df04de28e" />
 
 
+### Vidoe 5 :
+
+Learnt how to generate summary of the messages and how bot stores past chats and can summarise them also.lean how can we give memory to bot using memorysaver and thread id.
+
+Original link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-2/chatbot-summarization.ipynb
+
+Tweaking : 
+Made my own convo. Change name to Akshit from Lance, change the ocnvo from football sport to cricket sport and also asked about the player virat kohli in htat and then summarise it and check the result for the same in Langgraph site under traces.
+
+Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module2/chatbot-summarization.ipynb
+
+<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/47a800e3-f6ae-4941-9f5a-7101833e7e47" />
