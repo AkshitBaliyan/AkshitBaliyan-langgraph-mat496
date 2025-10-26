@@ -188,3 +188,14 @@ Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/
 ## Module 3
 
 ### Video 1 :
+
+learn about the human in loop interaction. then saw how sync and async streaming works.
+get to know how to stream chat model tokens live.
+
+Original link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-3/streaming-interruption.ipynb
+
+Tweaking : 
+Used LangGraph studio to see graph . change name to Akshit replacing Lance everywhere, topic change to IPL related to a cricket team. and alll streaming examples updated with the new conversation topics
+
+Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module3/streaming-interruption.ipynb
+
