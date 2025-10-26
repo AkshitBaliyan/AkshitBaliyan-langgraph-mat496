@@ -2,3 +2,4 @@ Module1/.env
 Module2/.env
 .vscode
 original/module-1/studio/.env.example
+.env
