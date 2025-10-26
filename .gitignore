@@ -3,3 +3,4 @@ Module2/.env
 .vscode
 original/module-1/studio/.env.example
 .env
+Module3/studio/__pycache__
