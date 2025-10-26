@@ -4,9 +4,10 @@
     "agent": "./agent.py:graph",
     "dynamic_breakpoints": "./dynamic_breakpoints.py:graph"
   },
-  "env": "./.env",
+  "env": "C:/Users/hp/Desktop/AkshitBaliyan-langgraph-mat496/.env",
   "python_version": "3.11",
   "dependencies": [
     "."
   ]
 }
+
