@@ -215,3 +215,22 @@ Used LangGraph studio to see change . change name to Akshit replacing Lance ever
 Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module3/breakpoints.ipynb
 
 ![alt text](Module3/studio/image2.png)
+
+
+### Video 3 :
+
+get to know how to Edit state with  human feedback when it is being executed. during execution the user is aked to edit the feedback that they want to change and then the changed is reflected automatically in the code.
+
+
+Original link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-3/edit-state-human-feedback.ipynb
+
+Tweaking : 
+added subtract function to tools list
+changed name to "Akshit" in all conversation examples
+updated multiplication values (15×7, 8×12)
+and also added variety with addition example (25+35)
+
+Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module3/edit-state-human-feedback.ipynb
+
+
+
