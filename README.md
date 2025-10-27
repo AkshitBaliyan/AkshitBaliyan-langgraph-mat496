@@ -234,3 +234,17 @@ Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/
 
 
 
+### Video 4 :
+
+in this section a dynamic breakpoint was made, and how it affects the flow was observed.
+also learnt how to update graph state after interruption and also checked the result on studio
+
+
+Original link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-3/dynamic_breakpoints.ipynb
+
+Tweaking : 
+asked hey how are you instead of hello world. and hi to hey making sure in case 1it still greater than 5 char length and less than 5 character in case 2.
+
+Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module3/dynamic_breakpoints.ipynb
+
+![alt text](Module3/studio/image3.png)
