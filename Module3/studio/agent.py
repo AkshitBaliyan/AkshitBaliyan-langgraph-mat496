@@ -23,7 +23,7 @@ def multiply(a: int, b: int) -> int:
     return a * b
 
 def divide(a: int, b: int) -> float:
-    """Adds a and b.
+    """Divide a by b.
 
     Args:
         a: first int
@@ -31,7 +31,16 @@ def divide(a: int, b: int) -> float:
     """
     return a / b
 
-tools = [add, multiply, divide]
+def subtract(a: int, b: int) -> int:
+    """Subtract b from a.
+
+    Args:
+        a: first int
+        b: second int
+    """
+    return a - b
+
+tools = [add, multiply, divide, subtract]
 
 # Define LLM with bound tools
 llm = ChatOpenAI(model="gpt-4o")
