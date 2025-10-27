@@ -248,3 +248,21 @@ asked hey how are you instead of hello world. and hi to hey making sure in case 
 Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module3/dynamic_breakpoints.ipynb
 
 ![alt text](Module3/studio/image3.png)
+
+
+### Video 5 :
+
+learnt about forking and replaying in a graph. check the result and observe the same on studio as well.
+
+
+Original link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-3/time-travel.ipynb
+
+Tweaking : 
+modify with my name, asked to multiply 15 with 7 , also changed addition values, add a subtract operator also in both time-travel as well as in agent.py
+
+Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module3/time-travel.ipynb
+
+![alt text](Module3/studio/image4.png)
+
+
+MODULE 3 ends here
