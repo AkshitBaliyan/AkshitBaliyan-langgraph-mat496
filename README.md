@@ -199,3 +199,19 @@ Used LangGraph studio to see graph . change name to Akshit replacing Lance every
 
 Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module3/streaming-interruption.ipynb
 
+![alt text](Module3/studio/image.png)
+
+
+### Video 2 :
+
+learnt about hoe breakpoints work. helps us how to add some user input in middle of the execution of tasks.
+
+
+Original link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-3/breakpoints.ipynb
+
+Tweaking : 
+Used LangGraph studio to see change . change name to Akshit replacing Lance everywhere, change multiplying values, alter addition func values,  added more tools, gave more breakpoint options. observed change in studio also
+
+Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module3/breakpoints.ipynb
+
+![alt text](Module3/studio/image2.png)
