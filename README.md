@@ -266,8 +266,21 @@ Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/
 
 
 
-## Module 3
+## Module 4
 
 
 ### Video 1 :
+
+learnt about the parallel nodes working and it execution, how fan in and fan out works , also how web search agent goes through web and wikipedia. also when nodes run in parallel how langgrapgh sets them in format.
+
+Original link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-4/parallelization.ipynb
+
+Tweaking : 
+change queries to Summarize Royal Challengers Bangalore’s IPL 2024 season in 2 sentences. 
+API streaming: Summarize RCB’s IPL 2024 season in one sentence
+also saw the changes and update in studio as well
+
+Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module4/parallelization.ipynb
+
+![alt text](Module4/studio/img1.jpg)
 
