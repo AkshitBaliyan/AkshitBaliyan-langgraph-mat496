@@ -282,5 +282,5 @@ also saw the changes and update in studio as well
 
 Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module4/parallelization.ipynb
 
-![alt text](Module4/studio/img1.jpg)
+![alt text](Module4/img1.jpg)
 
