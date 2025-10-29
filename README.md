@@ -284,3 +284,19 @@ Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/
 
 ![alt text](Module4/img1.jpg)
 
+
+### Video 2 :
+
+learnt how subgraphs breakdown work in smaller chunks and then thwy work in parallel. and how they sent data back to parent graph . also get to know about failure analysis.
+
+Original link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-4/sub-graph.ipynb
+
+Tweaking : 
+change queries to Summarize Royal Challengers Bangalore’s IPL 2024 season in 2 sentences. 
+API streaming: Summarize RCB’s IPL 2024 season in one sentence
+also saw the changes and update in studio as well
+
+Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module4/sub-graph.ipynb
+
+![alt text](Module4/img2.jpg) 
+
