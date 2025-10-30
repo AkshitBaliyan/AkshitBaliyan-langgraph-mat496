@@ -298,3 +298,18 @@ Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/
 
 ![alt text](Module4/img2.jpg) 
 
+
+### Video 3 :
+
+get to know how map reduce operations used in paralell. First the graph part is broken into subparts and then work is done adnd then combined together. in this we get different jokes and then the best one is selected.
+
+Original link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-4/map-reduce.ipynb
+
+Tweaking:
+Edited the subjects prompt to generate 4 sub-topics instead of 3.
+also i took the same topic as in video2 that is my fav IPL team. i want to know how good jokes can be on my team also.
+
+Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module4/map-reduce.ipynb
+
+![alt text](Module4/img3.jpg) 
+
