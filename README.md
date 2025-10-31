@@ -313,3 +313,26 @@ Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/
 
 ![alt text](Module4/img3.jpg) 
 
+
+
+### Video 4 :
+
+In this we applied all the things we learnt so far in this module. We learnt how to make a research assistant. created a system where multiple analysts research a topic in paralle each asking questions,searching the web for answerr and saving their findings. These results are then combined into a final report. 
+
+Original link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/original/module-4/research-assistant.ipynb
+
+Tweaking:
+Changed the topic from "The benefits of adopting LangGraph as an agent framework" to "Royal Challengers Bangalore (RCB) IPL 2024 season — strategic analysis" which created experts in this field and the final report was on this topic.
+also Updated the human feedback cell to request a “statistician focusing on run rates and death overs performance”.
+
+Modifies link : https://github.com/AkshitBaliyan/AkshitBaliyan-langgraph-mat496/blob/main/Module4/research-assistant.ipynb
+
+
+create analysts : 
+![alt text](Module4/img4.jpg) 
+
+conduct_review
+![alt text](Module4/img5.jpg) 
+
+final report:
+![alt text](Module4/img6.jpg) 
